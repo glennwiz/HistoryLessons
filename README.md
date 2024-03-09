@@ -7,5 +7,6 @@ Ritchie was the head of Lucent Technologies System Software Research Department 
 
 .1 this was the start of the tech banch we are currently living on. (this is totlay not true, we must go much much further back)
 
-
 UNIX, ouer love, ouer pain, ouer butter. 
+https://en.wikipedia.org/wiki/History_of_Unix 
+Before C cemented its place in history, Ken Thompson, Dennis Ritchie, and others at Bell Labs developed UNIX in the late 1960s and early 1970s. UNIX was revolutionary for its portability, multi-user capabilities, and the introduction of a hierarchical file system. Its design principles continue to influence operating systems today.
