@@ -11,4 +11,4 @@ UNIX, ouer love, ouer pain, ouer butter.
 https://en.wikipedia.org/wiki/History_of_Unix 
 Before C cemented its place in history, Ken Thompson, Dennis Ritchie, and others at Bell Labs developed UNIX in the late 1960s and early 1970s. UNIX was revolutionary for its portability, multi-user capabilities, and the introduction of a hierarchical file system. Its design principles continue to influence operating systems today.
 
-Anectode: i did never learn about unix before linux ented my life in the early 90ies, i rememer installing slack linux still with floppies and 3.5disks laing around in my nerd cave.
+Anectode: i did never learn about unix before linux ented my life in the early 90ies, i remember installing slack linux still with floppies and 3.5disks laing around in my nerd cave.
