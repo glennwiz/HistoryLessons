@@ -6,3 +6,6 @@ Ritchie and Thompson were awarded the Turing Award from the ACM in 1983, the Ham
 Ritchie was the head of Lucent Technologies System Software Research Department when he retired in 2007. He was the "R" in K&R C, and commonly known by his username dmr.
 
 .1 this was the start of the tech banch we are currently living on. (this is totlay not true, we must go much much further back)
+
+
+UNIX, ouer love, ouer pain, ouer butter. 
